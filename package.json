@@ -3,6 +3,7 @@
     "start": "servor --reload"
   },
   "dependencies": {
+    "@vercel/analytics": "^2.0.1",
     "servor": "^4.0.2"
   }
 }
